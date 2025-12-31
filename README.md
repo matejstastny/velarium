@@ -46,6 +46,8 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
 | Bat Membrane (No Phantoms)                  | Mod         | [Modrinth](https://modrinth.com/mod/vz3NiXrd) |
 | Better Block Entities                       | Mod         | [Modrinth](https://modrinth.com/mod/ONZm0H7Y) |
+| BoxHud                                      | Mod         | [Modrinth](https://modrinth.com/mod/gjFWUARA) |
+| BoxLib                                      | Mod         | [Modrinth](https://modrinth.com/mod/HAE5KvTA) |
 | Concurrent Chunk Management Engine (Fabric) | Mod         | [Modrinth](https://modrinth.com/mod/VSNURh3q) |
 | Carpet                                      | Mod         | [Modrinth](https://modrinth.com/mod/TQTTVgYE) |
 | Clearviews                                  | Mod         | [Modrinth](https://modrinth.com/mod/TwYypE5e) |
@@ -57,9 +59,11 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Entity Culling                              | Mod         | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
 | Fabric API                                  | Mod         | [Modrinth](https://modrinth.com/mod/P7dR8mSH) |
 | Fabric Language Kotlin                      | Mod         | [Modrinth](https://modrinth.com/mod/Ha28R6CL) |
+| Fancy Entity Renderer                       | Mod         | [Modrinth](https://modrinth.com/mod/RQ6INv2n) |
 | FancyMenu                                   | Mod         | [Modrinth](https://modrinth.com/mod/Wq5SjeWM) |
 | FerriteCore                                 | Mod         | [Modrinth](https://modrinth.com/mod/uXXizFIs) |
 | Freecam                                     | Mod         | [Modrinth](https://modrinth.com/mod/XeEZ3fK2) |
+| HUD Lib                                     | Mod         | [Modrinth](https://modrinth.com/mod/dWIHwNEE) |
 | ImmediatelyFast                             | Mod         | [Modrinth](https://modrinth.com/mod/5ZwdcRci) |
 | Jade 🔍                                     | Mod         | [Modrinth](https://modrinth.com/mod/nvQzSEkH) |
 | Konkrete                                    | Mod         | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
@@ -70,6 +74,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Melody                                      | Mod         | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
 | MiniHUD                                     | Mod         | [Modrinth](https://modrinth.com/mod/UMxybHE8) |
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
+| Mouse Tweaks                                | Mod         | [Modrinth](https://modrinth.com/mod/aC3cM3Vq) |
 | No Fortune Chest                            | Mod         | [Modrinth](https://modrinth.com/mod/4QufRNTv) |
 | NoRecipeBook                                | Mod         | [Modrinth](https://modrinth.com/mod/TvL1V8O5) |
 | OfflineLAN                                  | Mod         | [Modrinth](https://modrinth.com/mod/pimmstPB) |
@@ -79,31 +84,23 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Sodium Extra                                | Mod         | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | Sodium                                      | Mod         | [Modrinth](https://modrinth.com/mod/AANobbMI) |
 | Tweakeroo                                   | Mod         | [Modrinth](https://modrinth.com/mod/t5wuYk45) |
+| ukulib                                      | Mod         | [Modrinth](https://modrinth.com/mod/Y8uFrUil) |
+| uku's Armor HUD                             | Mod         | [Modrinth](https://modrinth.com/mod/wF189hn9) |
 | Very Many Players (Fabric)                  | Mod         | [Modrinth](https://modrinth.com/mod/wnEe9KBa) |
+| Armor HUD                                   | Mod         | [Modrinth](https://modrinth.com/mod/wAk5JZkv) |
 | WI Zoom                                     | Mod         | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
 | YetAnotherConfigLib (YACL)                  | Mod         | [Modrinth](https://modrinth.com/mod/1eAoo2KR) |
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
-| Small Totem                                 | Texturepack | [Modrinth](https://modrinth.com/mod/O1D0aeBl) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
-| 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
+| Life Series Armor                           | Texturepack | [Modrinth](https://modrinth.com/mod/ZL71UjPM) |
+| Nebula Panorama                             | Texturepack | [Modrinth](https://modrinth.com/mod/obmqZM8J) |
+| PvP Scroutopia                              | Texturepack | [Modrinth](https://modrinth.com/mod/Dah9yFTO) |
+| sound+                                      | Texturepack | [Modrinth](https://modrinth.com/mod/pg1LsznA) |
+| totem zero two                              | Texturepack | [Modrinth](https://modrinth.com/mod/K41qzD5k) |
+| Volcanic Dark                               | Texturepack | [Modrinth](https://modrinth.com/mod/ztFWd0Qq) |
 
 <!-- MODLIST_END -->
-
-### 💜 External content
-
-Non Modrinth content, or Modrinth content in a specific version. Not managed by `packwiz`.
-
-| Name                     | Type        | Source                                                            |
-| ------------------------ | ----------- | ----------------------------------------------------------------- |
-| Alternate Bedrock        | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
-| Square Plus Crosshair    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
-| Brighter Nether          | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
-| Golden Carrot Hunger Bar | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
-| Purple Hearts            | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
-| Quiter Minecarts         | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
-| Quiter Nether Portals    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
-| Rainbow Expirience Bar   | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
 
 ## 📈 Performance data
 
@@ -247,7 +244,6 @@ deactivate
 ## 🌐 Credits & Resources
 
 - This modpack uses mods and resource packs from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
-- This modpack uses resource packs from the [Vanilla Tweaks](https://vanillatweaks.net/) portal.
 - The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a Minecraft text plugin. There is a video explaining how to do this [here](https://www.youtube.com/watch?v=iGaufrACVj4).
 
 All mods are managed via [Packwiz](https://packwiz.infra.link/).
