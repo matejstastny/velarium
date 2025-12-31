@@ -129,6 +129,11 @@ hash = "9d12f51a932b25751b7595ca46439a30bee2c26bf6d9913ccc9a27ade1972f36"
 metafile = true
 
 [[files]]
+file = "mods/hud-lib.pw.toml"
+hash = "6407c739c8f9abd08d325222a2f90a977f8a8074ab60ebab076279920fa4f29c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
 metafile = true
@@ -244,6 +249,11 @@ hash = "1750b72e8ece77b5676ed18ffce81d0fd4df89e8bbde63ef8cc328df87bb9277"
 metafile = true
 
 [[files]]
+file = "mods/w-armor-hud.pw.toml"
+hash = "b2d5557cd9ab616d6b83efe88e89c805f5887aa6f104197e1959c58d7a54b05c"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "7e86cdd3ccb6ab8216c237d6d8c44644f606b7fbedef6accced77c1c5ec0b659"
 metafile = true
@@ -255,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
+hash = "e71ac6769675de1d2338a13e116f2aefcc8965ab0bc18b75a53572531c1447dd"
 metafile = true
 
 [[files]]

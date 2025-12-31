@@ -1,0 +1,13 @@
+name = "HUD Lib"
+filename = "hudlib-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dWIHwNEE/versions/YLsu1hqb/hudlib-1.2.1.jar"
+hash-format = "sha512"
+hash = "3cc01b114b95c4e4c95dd9501b9c03ea64d809cded59e414038c34f3ddd69810aa0ff0067dbdd7549954efd34d79d2c15996bec02faa0417f916b474cc595e83"
+
+[update]
+[update.modrinth]
+mod-id = "dWIHwNEE"
+version = "YLsu1hqb"
