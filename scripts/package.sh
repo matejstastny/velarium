@@ -14,7 +14,7 @@ set -euo pipefail
 
 # ─── Configuration ─────────────────────────────────────────────────────────────
 
-PACK_NAME="Starlight"
+PACK_NAME="Velarium"
 EXPORT_DIR="generated"
 TEMP_DIR=".tmp_packwiz_export"
 EXPORT_FILE="$EXPORT_DIR/$PACK_NAME.mrpack"
