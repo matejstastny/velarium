@@ -74,7 +74,7 @@
       "showMax": true,
       "showAverage": true
     },
-    "enabled": false,
+    "enabled": true,
     "x": 10,
     "y": 0,
     "scale": 1.0,
@@ -85,7 +85,7 @@
     "widget": {
       "showRight": true
     },
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 10,
     "scale": 1.0,
@@ -184,9 +184,9 @@
   },
   "crosshair": {
     "widget": {
-      "allowDebugCrosshair": true,
-      "crosshairType": "DEFAULT",
-      "colorType": "DEFAULT",
+      "allowDebugCrosshair": false,
+      "crosshairType": "DOT_AND_LINES",
+      "colorType": "DYNAMIC",
       "color": -11141121,
       "opacity": 1.0
     },
@@ -228,7 +228,7 @@
       "colorWhenFrozen": true,
       "decimalPlaces": 0
     },
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 30,
     "scale": 1.0,
@@ -240,7 +240,7 @@
       "padding": 2,
       "renderNames": true
     },
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 0,
     "scale": 1.0,
