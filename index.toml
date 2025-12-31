@@ -84,11 +84,6 @@ hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
 metafile = true
 
 [[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "5da71a1bb494f0209e1decf0e7d8abfdfa2fb54646ca1635235b1abcecf660e4"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
 metafile = true
@@ -216,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "dd76154b516a1791ad189a9c9aeb09d37a738233ed5dea358b35a4a43d9e5c3b"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "f9ad248cda9947bf9336af6cb6537f4533ca79325128fbb22999fb19eaea22f5"
 metafile = true
 
 [[files]]
