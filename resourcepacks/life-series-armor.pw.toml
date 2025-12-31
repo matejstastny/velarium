@@ -1,0 +1,13 @@
+name = "Life Series Armor"
+filename = "§aLife§eSeries§cArmor §7v1.4.0 §8[1.21.3-1.21.10].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZL71UjPM/versions/f1ub887L/%C2%A7aLife%C2%A7eSeries%C2%A7cArmor%20%C2%A77v1.4.0%20%C2%A78%5B1.21.3-1.21.10%5D.zip"
+hash-format = "sha512"
+hash = "4267c0d503cdc51d53146ca09b3f8d56dea6598f51b08da3441d1c01300c5c1d70001dd9cb44e41337f44801a4721e815de03a430055631d8d42f2de453eb06b"
+
+[update]
+[update.modrinth]
+mod-id = "ZL71UjPM"
+version = "f1ub887L"

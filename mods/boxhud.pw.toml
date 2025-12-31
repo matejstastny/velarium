@@ -1,0 +1,13 @@
+name = "BoxHud"
+filename = "BoxHud-fabric-7.0.0-7.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gjFWUARA/versions/NTV13ilI/BoxHud-fabric-7.0.0-7.0.0.jar"
+hash-format = "sha512"
+hash = "977ee431c1d69e351f62807b7ea02f64b4699731ccce3b243db8378b34fc112210af59fd00c451ca9f1c7180737606b57e746aa6e5738b49564734762538f594"
+
+[update]
+[update.modrinth]
+mod-id = "gjFWUARA"
+version = "NTV13ilI"

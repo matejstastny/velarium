@@ -1,0 +1,13 @@
+name = "Volcanic Dark"
+filename = "Volcanic Dark 1.21.11 - 1.19.3 - 1.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ztFWd0Qq/versions/ibcDePIm/Volcanic%20Dark%201.21.11%20-%201.19.3%20-%201.1.0.zip"
+hash-format = "sha512"
+hash = "97596be18a75384ce6b9aacc43b2bfbf9b47ac5327026140a5eab054438b296fa84cfd600d1a58340bc4324daccec5668d8dfc4d83986dd0e8297593a0af6e38"
+
+[update]
+[update.modrinth]
+mod-id = "ztFWd0Qq"
+version = "ibcDePIm"

@@ -1,0 +1,13 @@
+name = "BoxLib"
+filename = "BoxLib-fabric-19.0.3-19.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HAE5KvTA/versions/yRjXXil6/BoxLib-fabric-19.0.3-19.0.3.jar"
+hash-format = "sha512"
+hash = "790debc819b34840d608ac6946002b7694678458725df8486037afbd1c44c0211373bd3b392489bb4e23685ac7fd25be76cfbcf5a3ac9c055c0b9bc1e5766ad0"
+
+[update]
+[update.modrinth]
+mod-id = "HAE5KvTA"
+version = "yRjXXil6"

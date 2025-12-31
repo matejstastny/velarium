@@ -34,6 +34,16 @@ hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
 metafile = true
 
 [[files]]
+file = "mods/boxhud.pw.toml"
+hash = "e657c6f5f6c2d879e8070da81d7b9f8c748e2b6a5ed08f5e26f56275054f98c4"
+metafile = true
+
+[[files]]
+file = "mods/boxlib.pw.toml"
+hash = "b42028e8ca64c40eb8e01d1522ad3daf8217ef23dc3be7c3eb3d93153eeec5ea"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
@@ -80,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+hash = "0345fbfa8542b5ec84535fe2aff0f5cc4e801ecc337f926d4e2310b53f458569"
 metafile = true
 
 [[files]]
@@ -96,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+metafile = true
+
+[[files]]
+file = "mods/fluxly-hitboxes.pw.toml"
+hash = "da5f18576945984b8a275f2ccf8300184b54d70b96e539adeca5db76ac0c8a8e"
 metafile = true
 
 [[files]]
@@ -150,7 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "802981efce132e93b99352dacae410bf7b3e356f2e9de14b0ff9cea0beb31bb9"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "dc24a4cc0ad484d6593997c197ea602fac4d98c45dab0de6421e704c3851acd9"
 metafile = true
 
 [[files]]
@@ -1770,6 +1790,11 @@ hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/life-series-armor.pw.toml"
+hash = "2fdc4ee0d6e13f774015da1d3c43473e3d06ea999c3eaa4dbb3bb5c53e6b5503"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mob-crates.pw.toml"
 hash = "c19fcf8addbbcc4a120337232538156903a8866f0498a0ace992b3a8040b8ef7"
 metafile = true
@@ -1777,6 +1802,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mute-villagers.pw.toml"
 hash = "dfd6cc192f2cc4037b3e982dd6b66b2c3e41c1dd0f7592f119aad01a36d1da6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nebula-panorama.pw.toml"
+hash = "3c359a179db8cc9a8424f7a8b9c638bdf9c9deeb81ffd3b49a68f08322b607c1"
 metafile = true
 
 [[files]]
@@ -1790,6 +1820,21 @@ hash = "d34932d17dee9837a85d0f6499b45bc16290756a4c887b694f540e4fdd0fe0d1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pvp-.pw.toml"
+hash = "5507504e39d57e1fbba122edd3a1e6075167cc1ae3545dc8028ab7d4cd239f98"
+metafile = true
+
+[[files]]
 file = "resourcepacks/serified-font.pw.toml"
 hash = "f0c8256be8502a337263dc0463e3dd95bfb82957c88e58c59647dbe42afcaf6b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/totem-zero-two.pw.toml"
+hash = "0681302470f69df15c46b4b41c316a11f202b97c4e7ea33085850e1f8af107fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/volcanic-dark.pw.toml"
+hash = "a43894b2b383b5f69586c638eb462da0175dbcb979f1161c6e1ab1cdcf350d0c"
 metafile = true
