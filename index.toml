@@ -99,6 +99,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/fancy-entity-renderer.pw.toml"
+hash = "796885caaaaf1d73b28aa77390a40102536564e7fa87386ac4cc995f55cbb303"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "f06deb980ff2c6ab885c65a3d52ca9341470f12b544af6c1045d85262c407d80"
 metafile = true
