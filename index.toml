@@ -6,7 +6,7 @@ hash = "5fa5c0f30f8345e98bdafe9c62649287064c445b29fb25eae08b15c9648e5e01"
 
 [[files]]
 file = "README.md"
-hash = "ac96d6a5d4edd17e5130c0061ae4b5e7c561813df6383d306c823458e52b836c"
+hash = "15fed35da0ac7fb786845e47eb294033fa42fd4bc68bbf77e151d354bc519676"
 
 [[files]]
 file = "mods/\"limitless\"-banners.pw.toml"
@@ -249,6 +249,14 @@ hash = "86b92c4716a03d328a6f98b66a894c5fa1568c5b3b83074c4d9ddcf518cc849c"
 [[files]]
 file = "overrides/config/betterblockentities.json"
 hash = "fe9edebd49a434b2be707523377a1757b3bbdd0ebce357dbf61a8a39d4f12111"
+
+[[files]]
+file = "overrides/config/boxhud-widgets.json"
+hash = "33cae741f3f919bca69d0a618b1a710140814bfeb88c5d5b74a7750f7be146bc"
+
+[[files]]
+file = "overrides/config/boxhud.json"
+hash = "21133901cfb038becf57dbf77835fd6a27899f2b262c81437324b350ca704b2a"
 
 [[files]]
 file = "overrides/config/c2me.toml"
@@ -1735,10 +1743,6 @@ file = "overrides/config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
-file = "overrides/mods/BeamBeGone-0.2.0-dev.jar"
-hash = "3d5a571c4b847ac3e9a9fef428f7947dd35597974491c1a78e33686669661dfd"
-
-[[files]]
 file = "overrides/options.txt"
 hash = "6dc782c6e4595046efac1a836bb804fdbf8cc3eb9085f9e3e083cb77d49bfa64"
 
@@ -1775,6 +1779,354 @@ file = "overrides/resourcepacks/VT Square Plus Crosshair.zip"
 hash = "e37e66fb20f445514c45abe2f75ab8deba95d69de55a82c4e199cd88bd9d8370"
 
 [[files]]
+file = "overrides/saves/Velarium/DIM-1/data/raids.dat"
+hash = "83e494038d203edeba64a717d57c7f11cee6c60dfee27bfe59eee7d461268af3"
+
+[[files]]
+file = "overrides/saves/Velarium/DIM1/data/raids_end.dat"
+hash = "83e494038d203edeba64a717d57c7f11cee6c60dfee27bfe59eee7d461268af3"
+
+[[files]]
+file = "overrides/saves/Velarium/TeleportCommands/storage.json"
+hash = "efc9b41643190de22c139d6474731b4da5128d01a9a48e7f162d907085f10c6b"
+
+[[files]]
+file = "overrides/saves/Velarium/advancements/40f91e9a-427b-47b7-9722-35c5ffd37ef8.json"
+hash = "92b30d6b3dc8d42723c50da43660c7798fbf7987e0732ed8b754c5e67d288558"
+
+[[files]]
+file = "overrides/saves/Velarium/advancements/49e96464-aa17-46b3-b5c6-87574b6b48b4.json"
+hash = "c31ff7bd63894736f312dcb52156f68d566efcfa74b7b1389560eaff0d007830"
+
+[[files]]
+file = "overrides/saves/Velarium/advancements/6fddc3de-beac-42ec-9f70-5a212bcc0267.json"
+hash = "b42a33e04d2319544ed989c35e3616ba3c33745c6b7543b119b8fd0bcadc67fc"
+
+[[files]]
+file = "overrides/saves/Velarium/advancements/a61b24e8-d8c4-3964-a6f7-e1dba2cf3bd7.json"
+hash = "e03c484864358653002df1e854030eb6da8eb929b4e19cfa004c07043fc4f48a"
+
+[[files]]
+file = "overrides/saves/Velarium/carpet.conf"
+hash = "78c291f8a4fe25972dc512d6ba4e215f6ec898a7d3df86bb5c2ea552f5f29d4b"
+
+[[files]]
+file = "overrides/saves/Velarium/data/command_storage_chunk_loader.dat"
+hash = "8be811ce23189c7064d4e6beca5c0e8617f183568ab01a91236051d075209506"
+
+[[files]]
+file = "overrides/saves/Velarium/data/raids.dat"
+hash = "83e494038d203edeba64a717d57c7f11cee6c60dfee27bfe59eee7d461268af3"
+
+[[files]]
+file = "overrides/saves/Velarium/data/random_sequences.dat"
+hash = "97b80aca08841a8fe9f37afaf7ab7f9eabffa612526b203a3d6c81b859680532"
+
+[[files]]
+file = "overrides/saves/Velarium/data/scoreboard.dat"
+hash = "6e632c0206170caccc2581e2fdfc11abb1c4a1527279d096f4d5a5343b6cccd3"
+
+[[files]]
+file = "overrides/saves/Velarium/datapacks/Starlight PVP/data/minecraft/predicate/random_chance/0.1.json"
+hash = "4db0d3efe68d5bb17d643860dde0bba558abf3a0256a79d3e3bd1463fff71711"
+
+[[files]]
+file = "overrides/saves/Velarium/datapacks/Starlight PVP/data/starlight/function/hello.mcfunction"
+hash = "6c4ae2520efd33c1c35d817300fc14b130d7a3869f75fd7b10459d3ab38612c9"
+
+[[files]]
+file = "overrides/saves/Velarium/datapacks/Starlight PVP/data/starlight/function/load_kit.mcfunction"
+hash = "a6f095e2de3f9de9ab302bd713a13ab92bfaf368bb927cb28cc52842c8e71e5c"
+
+[[files]]
+file = "overrides/saves/Velarium/datapacks/Starlight PVP/pack.mcmeta"
+hash = "9397ba5b009cbeb4baeeaad10be4a76a6c89369fd1d5253b2082ff9653add36b"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.-1.-1.mca"
+hash = "c4d3cb0f682377c5736c7ec2a9b14e2886835b12805c6372c2587837f12285ba"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.-1.0.mca"
+hash = "20265bf6dfd89343d9a57eff0a0346d00ec093143c57a4e5e99443f5e91cfb44"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.0.-1.mca"
+hash = "9a610710f7e6cf98297f12db2f7cf630b3cacb8b940ca3932902411c58f7313e"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.0.0.mca"
+hash = "86ce6d352df51ffda108d7003675c74fafb0f534808e23ce9f0bca024ca16af2"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.1.1.mca"
+hash = "f30b60ef050c7b913f5dd42432a00c9ccbe3352bb218e8183cf209e4df78600b"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/entities/r.2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/icon.png"
+hash = "25e7bd37800b19d6beb00e0d49eac2a9fd0557857210dfc60da78150b1d261ea"
+
+[[files]]
+file = "overrides/saves/Velarium/level.dat"
+hash = "2d7e924a291b579dcb7b5da27ed083a5f4ca3039b5b07eba28e77c78bab257ee"
+
+[[files]]
+file = "overrides/saves/Velarium/level.dat_old"
+hash = "907943a844ab4b3176704055cc3ae81bbfeff276e5eedac631d1b34875c8ed43"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/40f91e9a-427b-47b7-9722-35c5ffd37ef8.dat"
+hash = "6172128d2643657cf2884837b06dda2f68bb2b4d74e501fca23541904fddeee7"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/40f91e9a-427b-47b7-9722-35c5ffd37ef8.dat_old"
+hash = "61d05e9dc5022b7cdd836f5532664bb462f2ea09eb79ccde52028401c486df20"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/49e96464-aa17-46b3-b5c6-87574b6b48b4.dat"
+hash = "76f5c062ad14e337576562fbc310e854922ea4297ec2526edcfbb82aaa48c78a"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/49e96464-aa17-46b3-b5c6-87574b6b48b4.dat_old"
+hash = "30937113fe5523c3b6bb3becc3963c4d423b9be8469877c34b72734b7d102206"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/6fddc3de-beac-42ec-9f70-5a212bcc0267.dat"
+hash = "9f8ad2d9800b8b42e2428461c03b1c699155dc2d15605b58bca415f7b5288000"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/6fddc3de-beac-42ec-9f70-5a212bcc0267.dat_old"
+hash = "8bbcf91aef396ca074b1b4fcce27cf3578465a32604f91c917fe1c4b8091918b"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/a61b24e8-d8c4-3964-a6f7-e1dba2cf3bd7.dat"
+hash = "494a35a0cd5c1ba5ae9cc4eec3d1e12a7b6e547bfecd6e0678fc04f8ef6db9c6"
+
+[[files]]
+file = "overrides/saves/Velarium/playerdata/a61b24e8-d8c4-3964-a6f7-e1dba2cf3bd7.dat_old"
+hash = "ad7c2d990ae60b8cf9db94d57022e4bbd80c2097e68414d0c48ac878c3cd01bb"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.-1.0.mca"
+hash = "81c917a12d77f8a9a80fe08b98333aa2d2d4254a35ed5507f804c837bc7308e4"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.-1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.1.1.mca"
+hash = "dccfeae2fe7e22dcdf3de52d35a32d2064f182398f719cd2fe1c3c313f802a80"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/poi/r.2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-1.-1.mca"
+hash = "88aa44f16e7fc992b5139981f6e2397182ed8f1ada0210633cbd5296ce39ad41"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-1.0.mca"
+hash = "5847576fcd50db048fbb1852fe931a8817a5b31d0af3587e728d8998d59f64c5"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-1.1.mca"
+hash = "a4b46279782c821acde2eb3aad9763bdac040a7c0da023186dc63807c0f87d73"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-2.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.-2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.0.-1.mca"
+hash = "428f15aa147feed592bac8ffbe26947d29fb9dda86cb7a298f7cb681063d1c92"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.0.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.0.0.mca"
+hash = "deb6df42383c6c055c11fa48ecf9ed4cf288e82fd2029fa669b551fdea11bc8c"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.0.1.mca"
+hash = "5371540145ffe67fbbf5193cf2c5992f37c751675c158fb4098f32363ae31b9f"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.1.-1.mca"
+hash = "598b18d66a48b40d8df3d297a6339c75ba9a6728ff69a06668e668185fa0b853"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.1.0.mca"
+hash = "ff2f49c24909b59623c56985c1130ff884e54ad14c8fa4b72aec5d138070aecc"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.1.1.mca"
+hash = "c6afea0192897a7450fdfa150f787ad20b9d5d9704ccb324c00f15d1f7397644"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.2.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.2.0.mca"
+hash = "9c30d087eb113b388152e03f61ee97f9a05c005203afce3233653067e26d63c5"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.2.1.mca"
+hash = "fa76d27931296d98cabafe27342ec528724038ed356af72ad788cd203d56587e"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.3.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/region/r.3.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/saves/Velarium/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "overrides/saves/Velarium/stats/40f91e9a-427b-47b7-9722-35c5ffd37ef8.json"
+hash = "35a43ea9c5fb5f6166b2e37942ad7c735af1012071d367a941c9a18cb0d57628"
+
+[[files]]
+file = "overrides/saves/Velarium/stats/49e96464-aa17-46b3-b5c6-87574b6b48b4.json"
+hash = "8d10b346329b5046fe3ab3f47e42f68698c87394de1c6ea11885baa8836c1052"
+
+[[files]]
+file = "overrides/saves/Velarium/stats/6fddc3de-beac-42ec-9f70-5a212bcc0267.json"
+hash = "d08c6e8e060f75558574a21dae7a5e78cc7364954d9f5dc2ef48eeb82456f1b3"
+
+[[files]]
+file = "overrides/saves/Velarium/stats/a61b24e8-d8c4-3964-a6f7-e1dba2cf3bd7.json"
+hash = "59550420237874ebf3163997a82ddcd69cb3c66d434a675a505e42cce892f9af"
+
+[[files]]
+file = "overrides/saves/Velarium/xaeromap.txt"
+hash = "a1f774bc29595fc7ee6d17c7f41a4a42e2bd12d73cd776626b619fd3359031ba"
+
+[[files]]
 file = "resourcepacks/1.20-panorama-with-shaders-(night).pw.toml"
 hash = "e7a1d62dcdd645d2db967c8a775502c6f46e31f2574ca63d091802dea3d51857"
 metafile = true
@@ -1795,23 +2147,8 @@ hash = "2fdc4ee0d6e13f774015da1d3c43473e3d06ea999c3eaa4dbb3bb5c53e6b5503"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mob-crates.pw.toml"
-hash = "c19fcf8addbbcc4a120337232538156903a8866f0498a0ace992b3a8040b8ef7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mute-villagers.pw.toml"
-hash = "dfd6cc192f2cc4037b3e982dd6b66b2c3e41c1dd0f7592f119aad01a36d1da6e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/nebula-panorama.pw.toml"
 hash = "3c359a179db8cc9a8424f7a8b9c638bdf9c9deeb81ffd3b49a68f08322b607c1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/new-glowing-ores.pw.toml"
-hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
 metafile = true
 
 [[files]]
@@ -1822,11 +2159,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/pvp-.pw.toml"
 hash = "5507504e39d57e1fbba122edd3a1e6075167cc1ae3545dc8028ab7d4cd239f98"
-metafile = true
-
-[[files]]
-file = "resourcepacks/serified-font.pw.toml"
-hash = "f0c8256be8502a337263dc0463e3dd95bfb82957c88e58c59647dbe42afcaf6b"
 metafile = true
 
 [[files]]
