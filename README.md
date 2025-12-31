@@ -18,7 +18,7 @@ TODO: Description
 
 ### 💚 [Modrinth Launcher](https://modrinth.com/app)
 
-1. Search for **Velarium**, or visit [the website](https://modrinth.com/project/kWqlGiOE)
+1. Search for **Velarium**, or visit [the website](https://modrinth.com) TODO
 2. Click **Install**
 
 ### 💙 [Prism Launcher](https://prismlauncher.org/)
