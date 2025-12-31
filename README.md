@@ -1,24 +1,16 @@
 <p align="center">
-  <img src="https://github.com/my-daarlin/starlight/blob/main/public/starlight.png?raw=true" alt="Starlight Banner" width="80%">
+  <img src="./public/banner.png" alt="Velarium Banner" width="80%">
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4"><img src="https://img.shields.io/badge/Minecraft-1.21.10-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com/modpack/starlightmodpack"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"><img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz"></a> <a href="https://github.com/my-daarlin/starlight"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10"><img src="https://img.shields.io/badge/Minecraft-1.21.10-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"><img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz"></a> <a href="https://github.com/my-daarlin/velarium"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <br>
 
-This modpack is built to feel like **Minecraft, but smoother and faster** - a seamless blend of vanilla fidelity and technical power.
-
-### ✨ Features:
-
-- ⚙️ **Performance** - powered by mods like Sodium, Lithium, and FerriteCore for a lightweight, high-FPS experience
-- 🧠 **Technical utility** - includes tools like Carpet, MiniHUD, WorldEdit, and others for redstoners and world builders
-- 💖 **Quality of life** - better UI, tooltips, world maps, and helpful tweaks without disrupting the vanilla flow
-
-🎨 Designed to stay **true to vanilla**, while offering subtle enhancements for players who want more - without _feeling_ like a modded pack.
+TODO: Description
 
 <!-- MODRINTH_REMOVE_START -->
 
@@ -26,14 +18,14 @@ This modpack is built to feel like **Minecraft, but smoother and faster** - a se
 
 ### 💚 [Modrinth Launcher](https://modrinth.com/app)
 
-1. Search for **Starlight**, or visit [the website](https://modrinth.com/project/kWqlGiOE)
+1. Search for **Velarium**, or visit [the website](https://modrinth.com/project/kWqlGiOE)
 2. Click **Install**
 
 ### 💙 [Prism Launcher](https://prismlauncher.org/)
 
 1. Click on _Add Instance_ in the top left corner
 2. Click on **Modrinth** in the left sidebar
-3. Search for Starlight, and look for a pink **S** logo
+3. Search for Velarium, look for the project icon
 
 <!-- MODRINTH_REMOVE_END -->
 
@@ -53,7 +45,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Architectury API                            | Mod         | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
 | Bat Membrane (No Phantoms)                  | Mod         | [Modrinth](https://modrinth.com/mod/vz3NiXrd) |
-| Better Advancements                         | Mod         | [Modrinth](https://modrinth.com/mod/Q2OqKxDG) |
 | Better Block Entities                       | Mod         | [Modrinth](https://modrinth.com/mod/ONZm0H7Y) |
 | Concurrent Chunk Management Engine (Fabric) | Mod         | [Modrinth](https://modrinth.com/mod/VSNURh3q) |
 | Carpet                                      | Mod         | [Modrinth](https://modrinth.com/mod/TQTTVgYE) |
@@ -63,8 +54,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Collective                                  | Mod         | [Modrinth](https://modrinth.com/mod/e0M1UDsY) |
 | Continuity                                  | Mod         | [Modrinth](https://modrinth.com/mod/1IjD5062) |
 | CustomSkinLoader                            | Mod         | [Modrinth](https://modrinth.com/mod/idMHQ4n2) |
-| Dynamic FPS                                 | Mod         | [Modrinth](https://modrinth.com/mod/LQ3K71Q1) |
-| Enderman Grief                              | Mod         | [Modrinth](https://modrinth.com/mod/LLomXBnX) |
 | Entity Culling                              | Mod         | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
 | Fabric API                                  | Mod         | [Modrinth](https://modrinth.com/mod/P7dR8mSH) |
 | Fabric Language Kotlin                      | Mod         | [Modrinth](https://modrinth.com/mod/Ha28R6CL) |
@@ -72,26 +61,20 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | FerriteCore                                 | Mod         | [Modrinth](https://modrinth.com/mod/uXXizFIs) |
 | Freecam                                     | Mod         | [Modrinth](https://modrinth.com/mod/XeEZ3fK2) |
 | ImmediatelyFast                             | Mod         | [Modrinth](https://modrinth.com/mod/5ZwdcRci) |
-| The Immersive Music Mod                     | Mod         | [Modrinth](https://modrinth.com/mod/EgBj3Bnf) |
-| Inventory Profiles Next                     | Mod         | [Modrinth](https://modrinth.com/mod/O7RBXm3n) |
-| Iris Shaders                                | Mod         | [Modrinth](https://modrinth.com/mod/YL57xq9U) |
 | Jade 🔍                                     | Mod         | [Modrinth](https://modrinth.com/mod/nvQzSEkH) |
 | Konkrete                                    | Mod         | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
 | libIPN                                      | Mod         | [Modrinth](https://modrinth.com/mod/onSQdWhM) |
-| Lighty                                      | Mod         | [Modrinth](https://modrinth.com/mod/yjvKidNM) |
 | Litematica                                  | Mod         | [Modrinth](https://modrinth.com/mod/bEpr0Arc) |
 | Lithium                                     | Mod         | [Modrinth](https://modrinth.com/mod/gvQqBUqZ) |
 | MaLiLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/GcWjdA9I) |
 | Melody                                      | Mod         | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
 | MiniHUD                                     | Mod         | [Modrinth](https://modrinth.com/mod/UMxybHE8) |
-| MiniTeleport                                | Mod         | [Modrinth](https://modrinth.com/mod/gmfe94N8) |
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
 | No Fortune Chest                            | Mod         | [Modrinth](https://modrinth.com/mod/4QufRNTv) |
 | NoRecipeBook                                | Mod         | [Modrinth](https://modrinth.com/mod/TvL1V8O5) |
 | OfflineLAN                                  | Mod         | [Modrinth](https://modrinth.com/mod/pimmstPB) |
 | Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
 | Reese's Sodium Options                      | Mod         | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
-| Roughly Enough Items (REI)                  | Mod         | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
 | Shulker Box Tooltip                         | Mod         | [Modrinth](https://modrinth.com/mod/2M01OLQq) |
 | Sodium Extra                                | Mod         | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | Sodium                                      | Mod         | [Modrinth](https://modrinth.com/mod/AANobbMI) |
@@ -99,17 +82,12 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Very Many Players (Fabric)                  | Mod         | [Modrinth](https://modrinth.com/mod/wnEe9KBa) |
 | WI Zoom                                     | Mod         | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
-| Xaero's Minimap                             | Mod         | [Modrinth](https://modrinth.com/mod/1bokaNcj) |
-| Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
 | YetAnotherConfigLib (YACL)                  | Mod         | [Modrinth](https://modrinth.com/mod/1eAoo2KR) |
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
 | Small Totem                                 | Texturepack | [Modrinth](https://modrinth.com/mod/O1D0aeBl) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
 | Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
-| oSzoukaua's: Reduce Villagers               | Texturepack | [Modrinth](https://modrinth.com/mod/2odW2Xnk) |
-| New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
 | 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
-| (Bee's) Serified Font                       | Texturepack | [Modrinth](https://modrinth.com/mod/L0iIXINl) |
 
 <!-- MODLIST_END -->
 
@@ -119,7 +97,6 @@ Non Modrinth content, or Modrinth content in a specific version. Not managed by 
 
 | Name                     | Type        | Source                                                            |
 | ------------------------ | ----------- | ----------------------------------------------------------------- |
-| Beams Be Gone            | Mod         | [GitHub](https://github.com/matejstastny/beams-be-gone)           |
 | Alternate Bedrock        | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
 | Square Plus Crosshair    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
 | Brighter Nether          | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
@@ -278,4 +255,4 @@ All mods are managed via [Packwiz](https://packwiz.infra.link/).
 
 ## 🧷 License
 
-This project is open-source and intended for educational and personal use. All content included in the Starlight modpack remains under its respective license. Be kind, give credit, and have fun 🌱
+This project is open-source and intended for educational and personal use. All content included in the Velarium modpack remains under its respective license. Be kind, give credit, and have fun 🌱
