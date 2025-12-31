@@ -19,6 +19,11 @@ hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
 metafile = true
 
 [[files]]
+file = "mods/armor-hud-numbers.pw.toml"
+hash = "52958d48ba2d03205796a19a26d9cece5e0ce56101be61bd22d49a8b9832ef33"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fa1d1286d8bc03ae99442535edd1e3c134ea859b861089e21d8b503e7cba4c67"
 metafile = true
@@ -221,6 +226,16 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "c5092ec9a074c3afcc2312c985d0829e023dcfa3524597ec1c4902359d5c78dc"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "631f77d6dba0c2578f7ca8860e44cc22b5a003cec3176480a035a179be291d22"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "273b5830e9c7c02f65da4fa8080040c464dcacbabd4b56a9d92a46a5e7f3ada8"
 metafile = true
 
 [[files]]
