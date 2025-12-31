@@ -112,12 +112,12 @@ _(Coming soon – will include how much fps it gets where)_
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="./public/screenshots/menu.png" alt="Menu Screenshot" width="49%">
+    <img src="./public/screenshots/main-menu.png" alt="Main Menu Screenshot" width="49%">
     <img src="./public/screenshots/inventory.png" alt="Inventory Screenshot" width="49%">
 </p>
 <p align="center">
-    <img src="./public/screenshots/game-day.png" alt="Game Day Screenshot" width="49%">
-    <img src="./public/screenshots/game-night.png" alt="Game Night Screenshot" width="49%">
+    <img src="./public/screenshots/game.png" alt="Game Screenshot" width="49%">
+    <img src="./public/screenshots/spawn.png" alt="Spawn Screenshot" width="49%">
 </p>
 
 ## 🧑‍💻 Development Guide
