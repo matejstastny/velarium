@@ -1,0 +1,287 @@
+{
+  "memory": {
+    "widget": {
+      "showPercentage": true,
+      "showMax": true
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 35,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "resourcepack": {
+    "widget": {
+      "textPadding": 4
+    },
+    "enabled": false,
+    "x": 300,
+    "y": 100,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "arrow": {
+    "widget": {
+      "supplyColor": true
+    },
+    "enabled": false,
+    "x": 50,
+    "y": 20,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "BOTTOM_LEFT"
+  },
+  "serverinfo": {
+    "widget": {
+      "showIcon": true,
+      "showName": true,
+      "textPadding": 2
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 30,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "playercount": {
+    "widget": {},
+    "enabled": false,
+    "x": 0,
+    "y": 100,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "ping": {
+    "widget": {},
+    "enabled": false,
+    "x": 0,
+    "y": 30,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "reach": {
+    "widget": {
+      "resetAfter": 10,
+      "resetOnNewTarget": true,
+      "decimalPlaces": 2,
+      "textPadding": 2,
+      "showLast": true,
+      "showMax": true,
+      "showAverage": true
+    },
+    "enabled": false,
+    "x": 10,
+    "y": 0,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "LEFT"
+  },
+  "cps": {
+    "widget": {
+      "showRight": true
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 10,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "fps": {
+    "widget": {
+      "showAdvanced": false
+    },
+    "enabled": true,
+    "x": 0,
+    "y": 0,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "coordinates": {
+    "widget": {
+      "textPadding": 5,
+      "renderDirection": true,
+      "renderBiome": true
+    },
+    "enabled": false,
+    "x": 5,
+    "y": 5,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "combo": {
+    "widget": {
+      "resetOnDamage": true,
+      "loseComboAfter": 2
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 100,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "hotbar": {
+    "widget": {},
+    "enabled": true,
+    "x": 0,
+    "y": 3,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "BOTTOM"
+  },
+  "actionbar": {
+    "widget": {},
+    "enabled": true,
+    "x": 0,
+    "y": 68,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "BOTTOM"
+  },
+  "speed": {
+    "widget": {
+      "showHorizonalVelocity": true,
+      "decimalPlaces": 2
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 50,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "BOTTOM_LEFT"
+  },
+  "keystroke": {
+    "widget": {
+      "innerPadding": 1,
+      "upColor": 1883917391,
+      "downColor": 1893392616,
+      "useKeybinds": true,
+      "displaySpacebarText": true
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 20,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_RIGHT"
+  },
+  "bossbar": {
+    "widget": {},
+    "enabled": true,
+    "x": 0,
+    "y": 12,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP"
+  },
+  "crosshair": {
+    "widget": {
+      "allowDebugCrosshair": true,
+      "crosshairType": "DEFAULT",
+      "colorType": "DEFAULT",
+      "color": -11141121,
+      "opacity": 1.0
+    },
+    "enabled": true,
+    "x": 0,
+    "y": 0,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "CENTER"
+  },
+  "armor": {
+    "widget": {
+      "isColumn": true,
+      "innerPadding": 1
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 10,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "BOTTOM_LEFT"
+  },
+  "compass": {
+    "widget": {
+      "renderXYZ": true,
+      "renderDistance": false,
+      "renderToWorldSpawn": false
+    },
+    "enabled": false,
+    "x": 5,
+    "y": 0,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_RIGHT"
+  },
+  "tps": {
+    "widget": {
+      "colorWhenLow": true,
+      "colorWhenFrozen": true,
+      "decimalPlaces": 0
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 30,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "potions": {
+    "widget": {
+      "padding": 2,
+      "renderNames": true
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_RIGHT"
+  },
+  "iteminfo": {
+    "widget": {
+      "itemExpiry": 5,
+      "additionColor": -11141291,
+      "removalColor": -43691,
+      "countColor": -1
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 15,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "BOTTOM_LEFT"
+  },
+  "time": {
+    "widget": {
+      "showGameClock": true,
+      "showGameTime": true,
+      "showRealTime": false,
+      "twentyFourHourFormat": true
+    },
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "TOP_LEFT"
+  },
+  "scoreboard": {
+    "widget": {},
+    "enabled": true,
+    "x": 0,
+    "y": -10,
+    "scale": 1.0,
+    "renderBackground": false,
+    "modifier": "RIGHT"
+  }
+}
