@@ -86,7 +86,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
 | Small Totem                                 | Texturepack | [Modrinth](https://modrinth.com/mod/O1D0aeBl) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
-| Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
 | 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
 
 <!-- MODLIST_END -->
