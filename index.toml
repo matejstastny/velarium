@@ -6,11 +6,7 @@ hash = "5fa5c0f30f8345e98bdafe9c62649287064c445b29fb25eae08b15c9648e5e01"
 
 [[files]]
 file = "README.md"
-hash = "14bc7925b491379eaf8adafcbdc0e57020b3f918c75dbc70844369cbd3b7916f"
-
-[[files]]
-file = "TODO.todo"
-hash = "8d2f3cbee094d31526069599cd03307b63a0118a07a1b005b47bfbb8cda56cae"
+hash = "ac96d6a5d4edd17e5130c0061ae4b5e7c561813df6383d306c823458e52b836c"
 
 [[files]]
 file = "mods/\"limitless\"-banners.pw.toml"
@@ -30,11 +26,6 @@ metafile = true
 [[files]]
 file = "mods/bat-membrane.pw.toml"
 hash = "4af32ac38b039869bb092e5a5c4a3336e2dadda0a492903fc614746c3dfdd5d9"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "94c3fc74cf184c9e5c597609dde733137f823bed718fcce32cdefaa040aa9977"
 metafile = true
 
 [[files]]
@@ -83,16 +74,6 @@ hash = "5da71a1bb494f0209e1decf0e7d8abfdfa2fb54646ca1635235b1abcecf660e4"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
-metafile = true
-
-[[files]]
-file = "mods/enderman-grief.pw.toml"
-hash = "8796cb31944bafdc2d47e3001e45fdfe13c609ac7f2695bd15eb0fe72d47ed23"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
 metafile = true
@@ -128,21 +109,6 @@ hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
 metafile = true
 
 [[files]]
-file = "mods/immersivemusicmod.pw.toml"
-hash = "840446b9261ab9d068c91fd60a7f810b93fdef4a797c92895a3a8183c24af6e3"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "7f5ae343f4e9e6e49c723311892b02351ff8031b2c3a1bf3d0e700bcd996ce90"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
 metafile = true
@@ -155,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "b9eadbeac742be0f77b95d3067c4760347452b690b8ae00268f4d5edc7ee8e70"
-metafile = true
-
-[[files]]
-file = "mods/lighty.pw.toml"
-hash = "eebcb6dd93f1d09f39bf699c11f213cab1d0f8f3c248cbe8b79659633759a051"
 metafile = true
 
 [[files]]
@@ -185,11 +146,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "ae2060c6233ba1715c06f687148af5b2fbd9ac511c28d653fe2887ad7ecb1fc1"
-metafile = true
-
-[[files]]
-file = "mods/miniteleport.pw.toml"
-hash = "97898e2ae51d04c91f17f705c2e0b981b756f7f057ab077b9572efc456c64da7"
 metafile = true
 
 [[files]]
@@ -220,11 +176,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "a2082dc982b6060bb48cbabb2f8177b73487ec10a8f3d409a0fe099ec4899157"
 metafile = true
 
 [[files]]
@@ -263,16 +214,6 @@ hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "993390d4661a77aa83c8416f75addfccaf7cee0a7a7311a21742b2036700b5ac"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "121b4fa5f12aef9a36418922a8be02aa715ad40347165e31dcdf293f16019519"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
 metafile = true
@@ -280,6 +221,10 @@ metafile = true
 [[files]]
 file = "overrides/config/badoptimizations.txt"
 hash = "e25d2c3affa5bb8f8e24156b0c80f65f2f4a5d898418d4d10ce005052d1659c6"
+
+[[files]]
+file = "overrides/config/betteradvancements.json"
+hash = "86b92c4716a03d328a6f98b66a894c5fa1568c5b3b83074c4d9ddcf518cc849c"
 
 [[files]]
 file = "overrides/config/betterblockentities.json"
@@ -335,7 +280,7 @@ hash = "1a4f3ac02697e082fa8c9a07a1c51e86d3b703b7b84aa91e1a3241e0b7260095"
 
 [[files]]
 file = "overrides/config/dynamic_fps.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "52f0fd00b3698630067145ecf6af008346f91a7bb97ac193f4de949656ca2364"
 
 [[files]]
 file = "overrides/config/enhanced_bes.properties"
@@ -359,7 +304,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "cbd9fc7828765c684b90c076005757edee5c6dcf53cc2a5fb3435f708ce35761"
+hash = "da3d1aaa35b130451edb496b4e232baab2ee4683cc1933962bec8fb6ab5f0866"
 
 [[files]]
 file = "overrides/config/fancymenu/assets/starlight-pro-logo.png"
@@ -579,7 +524,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "e103393ea8eb130535826eb940258ebc2c6fb1ead420ba8d39170e93b82e3202"
+hash = "d2651328677c28c239c54c4ab5c4dc24475e47d34695c452aa4cc71715e55b9d"
 
 [[files]]
 file = "overrides/config/jade/hide-blocks.json"
@@ -595,7 +540,7 @@ hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
 
 [[files]]
 file = "overrides/config/jade/jade.json"
-hash = "2b1d67c9e6a2eb695dfe97d3be2dc15f1badfade73606a4d45fb062eb510b40c"
+hash = "4c956a959851955746b6d748e39677a40476efb156165486bf76e0185bd6968c"
 
 [[files]]
 file = "overrides/config/jade/plugins.json"
@@ -1107,11 +1052,11 @@ hash = "675af5d6271bfc458a23a1f8e0ecbb583a7d797aec9544e132b16cc3653bfec1"
 
 [[files]]
 file = "overrides/config/roughlyenoughitems/pinyin.properties"
-hash = "0d0e8e58acab0b04dd9fa4d087a4ad42d0db423e16ef0e65362b4c6b615fdb7a"
+hash = "cb93c8a8edeec89f572458ce8a4cb6a827b7c9d86ae7dfbe9c8391c5f7d6ca43"
 
 [[files]]
 file = "overrides/config/roughlyenoughitems/pinyin_double.properties"
-hash = "dbca939d70d642ba577b7a2d59b8e157a380059a795d84e180c6b8a99214f3e4"
+hash = "ce946f8f8c94ea08cfc70d4cdeeffa841ff368d9c84745eeed7a77dc3f132b29"
 
 [[files]]
 file = "overrides/config/rrls.toml"
@@ -1163,7 +1108,7 @@ hash = "3e2eff451a43b24b5d6bfc7f5ece4dd9dd4f81c1ec458038797b8dd79dbd59aa"
 
 [[files]]
 file = "overrides/config/vmp.properties"
-hash = "fbcf83704a1f4b3d6fddf8e3582320edf1595aabd350851e67c2c5a926a1ec8e"
+hash = "3db2877cbd99c9c4b9562fac031e285bff8196aee8957b2323c7c20c5f852385"
 
 [[files]]
 file = "overrides/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished"
@@ -1735,7 +1680,7 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "overrides/config/worldedit/worldedit.properties"
-hash = "237cdb8b9234fb632c8a750d91f458f89ffdcb9f8b225396be2db49374157316"
+hash = "5929e948daeade92785ad81c59d38ead77d7fbc566c9dedccb622b3b2e79e678"
 
 [[files]]
 file = "overrides/config/xaerominimap-common.txt"
@@ -1747,7 +1692,7 @@ hash = "932b37e28c2f47b6a8a38159b121cfc538eca24991971c63bc0c4340e59e1ebf"
 
 [[files]]
 file = "overrides/config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "overrides/config/xaeropatreon.txt"
@@ -1770,20 +1715,12 @@ file = "overrides/config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
-file = "overrides/mods/BeamBeGone-0.1.0-dev.jar"
-hash = "697ef3799c67b8b45fde6b43245f3610fe86bd3a828e961e8e2924286e6650a6"
-
-[[files]]
-file = "overrides/mods/BeamBeGone-0.2.0-fork.jar"
-hash = "697ef3799c67b8b45fde6b43245f3610fe86bd3a828e961e8e2924286e6650a6"
+file = "overrides/mods/BeamBeGone-0.2.0-dev.jar"
+hash = "3d5a571c4b847ac3e9a9fef428f7947dd35597974491c1a78e33686669661dfd"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "b8726bcd3ec59117cf3d485fb6c7edd1a4f89998ec96d5b3796aa86b51c6db08"
-
-[[files]]
-file = "overrides/resourcepacks/NoVillagerIdleSounds1214.zip"
-hash = "25039cc28f9989d769ffb1519c3fb9f7a6a8ca325eba0c8e846af793d4a84252"
+hash = "6dc782c6e4595046efac1a836bb804fdbf8cc3eb9085f9e3e083cb77d49bfa64"
 
 [[files]]
 file = "overrides/resourcepacks/VT Alternate Bedrock.zip"
