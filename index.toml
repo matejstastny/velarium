@@ -2152,11 +2152,6 @@ hash = "3c359a179db8cc9a8424f7a8b9c638bdf9c9deeb81ffd3b49a68f08322b607c1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/night-ui.pw.toml"
-hash = "d34932d17dee9837a85d0f6499b45bc16290756a4c887b694f540e4fdd0fe0d1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/pvp-.pw.toml"
 hash = "5507504e39d57e1fbba122edd3a1e6075167cc1ae3545dc8028ab7d4cd239f98"
 metafile = true
