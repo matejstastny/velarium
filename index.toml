@@ -2177,6 +2177,11 @@ hash = "5507504e39d57e1fbba122edd3a1e6075167cc1ae3545dc8028ab7d4cd239f98"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sound+.pw.toml"
+hash = "4c71ac3d9b4d7bddefbdf6f7b56e010098c64cad78be6182a79496488ae106bc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/totem-zero-two.pw.toml"
 hash = "0681302470f69df15c46b4b41c316a11f202b97c4e7ea33085850e1f8af107fa"
 metafile = true

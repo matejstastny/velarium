@@ -1,0 +1,13 @@
+name = "sound+"
+filename = "sound+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pg1LsznA/versions/sngAR3DN/sound%2B.zip"
+hash-format = "sha512"
+hash = "b0cfd4189375e40c91489bdda4db90ae80576cc4dd226030d309fe20a1f4cd181509d623dda9903d3f44c4acb1a87c67d8a17bfca175d8bdc33c04c98a1265b6"
+
+[update]
+[update.modrinth]
+mod-id = "pg1LsznA"
+version = "sngAR3DN"
