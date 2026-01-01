@@ -121,7 +121,7 @@ _(Coming soon – will include how much fps it gets where)_
 
 ## 🧑‍💻 Development Guide
 
-Starlight uses [Packwiz](https://packwiz.infra.link/) for modpack management. This allows simple mod additions, version locking, and repeatable builds via Git. To install it, first [install the Go language](https://go.dev/doc/install) and then run this command:
+Velarium uses [Packwiz](https://packwiz.infra.link/) for modpack management. This allows simple mod additions, version locking, and repeatable builds via Git. To install it, first [install the Go language](https://go.dev/doc/install) and then run this command:
 
 ```bash
 go install github.com/packwiz/packwiz@latest
@@ -243,7 +243,7 @@ deactivate
 ## 🌐 Credits & Resources
 
 - This modpack uses mods and resource packs from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
-- The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a Minecraft text plugin. There is a video explaining how to do this [here](https://www.youtube.com/watch?v=iGaufrACVj4).
+- The Velarium logo was created using [Blockbench](https://www.blockbench.net/) with a Minecraft text plugin. There is a video explaining how to do this [here](https://www.youtube.com/watch?v=iGaufrACVj4).
 
 All mods are managed via [Packwiz](https://packwiz.infra.link/).
 
