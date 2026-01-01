@@ -250,3 +250,5 @@ All mods are managed via [Packwiz](https://packwiz.infra.link/).
 ## 🧷 License
 
 This project is open-source and intended for educational and personal use. All content included in the Velarium modpack remains under its respective license. Be kind, give credit, and have fun 🌱
+
+MEOW test
