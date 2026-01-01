@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/banner.png" alt="Velarium Banner" width="80%">
+  <img src="https://github.com/matejstastny/velarium/raw/main/public/banner.png" alt="Velarium Banner" width="80%">
 </p>
 
 <br>
@@ -250,5 +250,3 @@ All mods are managed via [Packwiz](https://packwiz.infra.link/).
 ## 🧷 License
 
 This project is open-source and intended for educational and personal use. All content included in the Velarium modpack remains under its respective license. Be kind, give credit, and have fun 🌱
-
-MEOW test
