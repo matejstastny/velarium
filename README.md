@@ -5,12 +5,12 @@
 <br>
 
 <p align="center">
-  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10"><img src="https://img.shields.io/badge/Minecraft-1.21.10-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"><img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz"></a> <a href="https://github.com/my-daarlin/velarium"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10"><img src="https://img.shields.io/badge/Minecraft-1.21.10-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com/modpack/velarium"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"><img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz"></a> <a href="https://github.com/my-daarlin/velarium"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <br>
 
-TODO: Description
+Velarium is a PvP modpack built for combat, mainly crystal PvP and competitive play. It focuses on performance, clarity, and balance, with enhanced visuals, refined UI. that keep fights skill-based and responsive. Designed for arenas and duels, Velarium delivers a sharp, polished PvP experience without unnecessary distractions.
 
 <!-- MODRINTH_REMOVE_START -->
 
@@ -18,7 +18,7 @@ TODO: Description
 
 ### 💚 [Modrinth Launcher](https://modrinth.com/app)
 
-1. Search for **Velarium**, or visit [the website](https://modrinth.com) TODO
+1. Search for **Velarium**, or visit [the website](https://modrinth.com/modpack/velarium)
 2. Click **Install**
 
 ### 💙 [Prism Launcher](https://prismlauncher.org/)
@@ -44,7 +44,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | "Limitless" Banners                         | Mod         | [Modrinth](https://modrinth.com/mod/z4zsMANd) |
 | Architectury API                            | Mod         | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
-| Bat Membrane (No Phantoms)                  | Mod         | [Modrinth](https://modrinth.com/mod/vz3NiXrd) |
 | Better Block Entities                       | Mod         | [Modrinth](https://modrinth.com/mod/ONZm0H7Y) |
 | BoxHud                                      | Mod         | [Modrinth](https://modrinth.com/mod/gjFWUARA) |
 | BoxLib                                      | Mod         | [Modrinth](https://modrinth.com/mod/HAE5KvTA) |
