@@ -10,8 +10,6 @@
 
 A `PvP` modpack built for combat, mainly crystal `PvP` and Hypixel. It focuses on performance, clarity with enhanced visuals, refined UI and useful HUD features. that keep fights skill-based and responsive.
 
-<!-- MODRINTH_REMOVE_START -->
-
 ## `Install`
 
 #### [Modrinth Launcher](https://modrinth.com/app)
