@@ -4,7 +4,7 @@
 
 <!-- GITHUB_TAGS_START -->
 
-[![Fabric](https://img.shields.io/badge/Fabric-0.18.4-blueviolet?logo=fabric&logoColor=white)](https://fabricmc.net/) [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green?logo=minecraft)](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10) [![Modrinth](https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white)](https://modrinth.com/modpack/starlightmodpack) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/matejstastny/starlight)
+[![Fabric](https://img.shields.io/badge/Fabric-0.18.4-blueviolet?logo=fabric&logoColor=white)](https://fabricmc.net/) [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green?logo=minecraft)](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10) [![Modrinth](https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white)](https://modrinth.com/modpack/velarium) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/matejstastny/velarium)
 
 <!-- GITHUB_TAGS_END -->
 
