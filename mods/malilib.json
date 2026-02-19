@@ -1,0 +1,15 @@
+{
+  "project_id": "GcWjdA9I",
+  "slug": "malilib",
+  "version_id": "VwmyInJJ",
+  "version_number": "0.26.8",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/VwmyInJJ/malilib-fabric-1.21.10-0.26.8.jar",
+    "filename": "malilib-fabric-1.21.10-0.26.8.jar",
+    "sha512": "21ca317baea01057405b3b0a5edd9d3a733c69c623d2dda8b32bfefd9b41e49901b95ecb32916bb8d3754487b6dbbd4e119c54aecaa9bc0c95775b952bf201a3",
+    "sha1": "5462232004f117b87d0877685571900070297421"
+  },
+  "explicit": false,
+  "dependencies": []
+}

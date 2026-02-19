@@ -63,7 +63,7 @@ threadPoolPriority = "default"
 		enableExtRenderDistanceProtocol = "default"
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
-		# (Default: 60) Max render distance allowed in game options
+		# (Default: 43) Max render distance allowed in game options
 		maxViewDistance = "default"
 
 [noTickViewDistance]
@@ -96,8 +96,6 @@ threadPoolPriority = "default"
 	# Whether to use the fast reduced allocation chunk serializer
 	# (may cause incompatibility with other mods)
 	# 
-	# Set to false for the following reasons: 
-	# Incompatible with architectury@18.0.8 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"

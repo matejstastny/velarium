@@ -1,0 +1,17 @@
+{
+  "project_id": "HAE5KvTA",
+  "slug": "boxlib",
+  "version_id": "yRjXXil6",
+  "version_number": "19.0.3",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/HAE5KvTA/versions/yRjXXil6/BoxLib-fabric-19.0.3-19.0.3.jar",
+    "filename": "BoxLib-fabric-19.0.3-19.0.3.jar",
+    "sha512": "790debc819b34840d608ac6946002b7694678458725df8486037afbd1c44c0211373bd3b392489bb4e23685ac7fd25be76cfbcf5a3ac9c055c0b9bc1e5766ad0",
+    "sha1": "fa200a4bd94f9988618c05838ac03c4e87345af3"
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

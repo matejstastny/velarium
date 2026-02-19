@@ -1,0 +1,17 @@
+{
+  "project_id": "J81TRJWm",
+  "slug": "konkrete",
+  "version_id": "kLTIGlRD",
+  "version_number": "1.9.13-1.21.10-fabric",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/kLTIGlRD/konkrete_fabric_1.9.13_MC_1.21.10.jar",
+    "filename": "konkrete_fabric_1.9.13_MC_1.21.10.jar",
+    "sha512": "1f7a92030d323de78214347973a966bce6fcef0e043b7eff58539772bf27935a66f19f3ae513f66070b3296b5028c626a7495ce7f7efde70edf19e6923ee3536",
+    "sha1": "b6d89fe7f542c7f05bb6a7a4c6573225f255a284"
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

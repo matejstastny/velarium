@@ -1,0 +1,19 @@
+{
+  "project_id": "dWIHwNEE",
+  "slug": "hud-lib",
+  "version_id": "YLsu1hqb",
+  "version_number": "1.2.1+1.21.9",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/dWIHwNEE/versions/YLsu1hqb/hudlib-1.2.1.jar",
+    "filename": "hudlib-1.2.1.jar",
+    "sha512": "3cc01b114b95c4e4c95dd9501b9c03ea64d809cded59e414038c34f3ddd69810aa0ff0067dbdd7549954efd34d79d2c15996bec02faa0417f916b474cc595e83",
+    "sha1": "732df01d8a69ba90398dd4059a379ef83231888a"
+  },
+  "explicit": false,
+  "dependencies": [
+    "mOgUt4GM",
+    "1eAoo2KR",
+    "P7dR8mSH"
+  ]
+}

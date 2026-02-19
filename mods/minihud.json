@@ -1,0 +1,17 @@
+{
+  "project_id": "UMxybHE8",
+  "slug": "minihud",
+  "version_id": "ANi9NQDr",
+  "version_number": "0.37.6",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/ANi9NQDr/minihud-fabric-1.21.10-0.37.6.jar",
+    "filename": "minihud-fabric-1.21.10-0.37.6.jar",
+    "sha512": "1c54ccade450252635d7dde114db76efdd155f1e48dd859f03d8ccbb1b7f0d9cbb754a2f8c6fecec8abcd696876d0b91984d1a8abfdad436d43f859a30abc5b4",
+    "sha1": "100ebad5daeacdc80858ddc2a57f38367a733b45"
+  },
+  "explicit": true,
+  "dependencies": [
+    "GcWjdA9I"
+  ]
+}

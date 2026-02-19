@@ -1,0 +1,17 @@
+{
+  "project_id": "t5wuYk45",
+  "slug": "tweakeroo",
+  "version_id": "cNQrsScQ",
+  "version_number": "0.26.5",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/cNQrsScQ/tweakeroo-fabric-1.21.10-0.26.5.jar",
+    "filename": "tweakeroo-fabric-1.21.10-0.26.5.jar",
+    "sha512": "7166393cf40e8850da0ee6a7731b8c1de49efd016a8491c8bc04f478f9019e8d13f5c52914178eef20b4523c8462f9dca0d9343004f32a1750771a021cb01c88",
+    "sha1": "17e4546b86410bc7d02d50e3f860162d3cc6ea3c"
+  },
+  "explicit": true,
+  "dependencies": [
+    "GcWjdA9I"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "project_id": "ghrZDhGW",
+  "slug": "skinrestorer",
+  "version_id": "20oFkohZ",
+  "version_number": "2.5.0+1.21.9-fabric",
+  "side": "server",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/20oFkohZ/skinrestorer-2.5.0%2B1.21.9-fabric.jar",
+    "filename": "skinrestorer-2.5.0+1.21.9-fabric.jar",
+    "sha512": "a5c14870b0893264456e7087cb7168362ff8916416bebb31dae1380ea66a94eead68f12b1ee9aaf283093264cd31c452b45f94789addbf6a5faa6cdb870975b8",
+    "sha1": "b55115e6958e5603e8d09cb070d9ea7180ae7250"
+  },
+  "explicit": true,
+  "dependencies": []
+}

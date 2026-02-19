@@ -7,10 +7,10 @@ entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.375
-fovEffectScale:0.6558718508232494
-darknessEffectScale:1.0
-glintSpeed:0.5
-glintStrength:0.75
+fovEffectScale:0.5023858347149082
+darknessEffectScale:0.0
+glintSpeed:0.40933098591549294
+glintStrength:1.0
 prioritizeChunkUpdates:0
 fullscreen:true
 gamma:0.8
@@ -26,7 +26,7 @@ renderClouds:"false"
 cloudRange:128
 renderDistance:12
 simulationDistance:8
-screenEffectScale:1.0
+screenEffectScale:0.0
 soundDevice:""
 autoJump:false
 rotateWithMinecart:false
@@ -42,22 +42,22 @@ realmsNotifications:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-bobView:true
+bobView:false
 toggleCrouch:false
 toggleSprint:false
 toggleAttack:false
 toggleUse:false
 sprintWindow:7
 darkMojangStudiosBackground:true
-hideLightningFlashes:false
+hideLightningFlashes:true
 hideSplashTexts:false
 mouseSensitivity:0.4894366197183099
-damageTiltStrength:1.0
+damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Fast Better Grass.zip","file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip","file/Scroutopia v2.2.zip","file/Volcanic Dark 1.21.11 - 1.19.3 - 1.1.0.zip","file/Nebula Panorama.zip","file/sound+.zip","file/§aLife§eSeries§cArmor §7v1.4.0 §8[1.21.3-1.21.10].zip","file/Zero Two.zip"]
-incompatibleResourcePacks:["file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip","file/Scroutopia v2.2.zip","file/sound+.zip","file/Zero Two.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Scroutopia v2.3.zip","file/Fast Better Grass.zip","file/Volcanic Dark 1.21.11 - 1.19.3 - 1.1.0.zip","file/Nebula Panorama.zip","file/sound+.zip","file/§aLife§eSeries§cArmor §7v1.4.0 §8[1.21.3-1.21.10].zip","file/Zero Two.zip"]
+incompatibleResourcePacks:["file/sound+.zip","file/Zero Two.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0

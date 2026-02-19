@@ -1,0 +1,17 @@
+{
+  "project_id": "RQ6INv2n",
+  "slug": "fancy-entity-renderer",
+  "version_id": "1fEb7vby",
+  "version_number": "0.5.4",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/RQ6INv2n/versions/1fEb7vby/fancy-entity-renderer-fabric-1.21.10-0.5.4.jar",
+    "filename": "fancy-entity-renderer-fabric-1.21.10-0.5.4.jar",
+    "sha512": "6529adf105d4336f04596390f97f6bea11537d0983fb419a1ed967f6159700b295a073b11cc3427553c1fe1f54a5bd0bcb63fff8b0066673f127a2419b729313",
+    "sha1": "85d077249a1cddc1eed022ca88ae35169edfbc9e"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

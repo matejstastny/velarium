@@ -1,0 +1,15 @@
+{
+  "project_id": "obmqZM8J",
+  "slug": "nebula-panorama",
+  "version_id": "l8S4Hc6J",
+  "version_number": "1",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/obmqZM8J/versions/l8S4Hc6J/Nebula%20Panorama.zip",
+    "filename": "Nebula Panorama.zip",
+    "sha512": "43940580accf40f35d071a4a5839549b7e9d01f223239ed6248303847bcc1ff7ee97a54105ce407bcd258f173eed1ea56586c1283ae0c2e59da855299f7ea04a",
+    "sha1": "5ab24e8dfec4f2b6997e815e806ba2ff2ea385b1"
+  },
+  "explicit": true,
+  "dependencies": []
+}

@@ -1,0 +1,15 @@
+{
+  "project_id": "Dah9yFTO",
+  "slug": "pvp-",
+  "version_id": "MltL3kKU",
+  "version_number": "v2.3",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Dah9yFTO/versions/MltL3kKU/Scroutopia%20v2.3.zip",
+    "filename": "Scroutopia v2.3.zip",
+    "sha512": "7ddb95a082f4143aebb3571d2aaf4c14a89edc47d8e95476ca4a359660a686b9ae7f48b730f2fc44dfda6604fcc5406a8171a26848b8a5a4ae95e9a54b1dccbc",
+    "sha1": "029fe5a1447eb37a35d26c1056752d48d2236e54"
+  },
+  "explicit": true,
+  "dependencies": []
+}

@@ -1,0 +1,17 @@
+{
+  "project_id": "fJi8nm80",
+  "slug": "clickthrough+",
+  "version_id": "D0nwQb3l",
+  "version_number": "3.6.2+1.21.10-fabric",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/fJi8nm80/versions/D0nwQb3l/clickthrough-plus-3.6.1%2B1.21.10-fabric.jar",
+    "filename": "clickthrough-plus-3.6.1+1.21.10-fabric.jar",
+    "sha512": "664aeaf978702650d1ab996e4ec9db2c88d64e8533b02145ebc15167770ac4500e82f1261dbd333a23d649dda2b5a47924706d50930a9751f528962ebf378cbc",
+    "sha1": "3e51669e923a09b3bbcae8c2b2b3339a1d658513"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "project_id": "TwYypE5e",
+  "slug": "clearviews",
+  "version_id": "PRG1BqC0",
+  "version_number": "2.0.6",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/TwYypE5e/versions/PRG1BqC0/clearviews-2.0.6%2B1.21.10-fabric.jar",
+    "filename": "clearviews-2.0.6+1.21.10-fabric.jar",
+    "sha512": "f9d13615850a126d4687e2062ab91cd22b34065b9094ea11335b88c9bd1d70b65c8e17033b1c513babe641dce30cf99a351e0101dcf3670c1de6dce79b9d4687",
+    "sha1": "f0136482d9b7d76d39239cdc2a34d6cbb9778f4b"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH",
+    "1eAoo2KR",
+    "mOgUt4GM"
+  ]
+}
