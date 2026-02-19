@@ -1,0 +1,17 @@
+{
+  "project_id": "gjFWUARA",
+  "slug": "boxhud",
+  "version_id": "NTV13ilI",
+  "version_number": "7.0.0-fabric",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/gjFWUARA/versions/NTV13ilI/BoxHud-fabric-7.0.0-7.0.0.jar",
+    "filename": "BoxHud-fabric-7.0.0-7.0.0.jar",
+    "sha512": "977ee431c1d69e351f62807b7ea02f64b4699731ccce3b243db8378b34fc112210af59fd00c451ca9f1c7180737606b57e746aa6e5738b49564734762538f594",
+    "sha1": "d54e3d596924b8b572c8d63e84b331d12038d37a"
+  },
+  "explicit": true,
+  "dependencies": [
+    "HAE5KvTA"
+  ]
+}

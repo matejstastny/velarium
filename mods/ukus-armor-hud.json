@@ -1,0 +1,18 @@
+{
+  "project_id": "wF189hn9",
+  "slug": "ukus-armor-hud",
+  "version_id": "DYA8JV1n",
+  "version_number": "0.9.3+mc1.21.10",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/wF189hn9/versions/DYA8JV1n/ukus-armor-hud-0.9.3%2Bmc1.21.10.jar",
+    "filename": "ukus-armor-hud-0.9.3+mc1.21.10.jar",
+    "sha512": "62db2db0ea7347e0d6ffeac53ec09aa4f791a70c122bb3f2bcd9e2a53b0312d6a91e98537f402a100b31908a19c5b5084f6b8a85f42bba21fb3fbf1c123969d8",
+    "sha1": "2858b59d9cbfd078f2a1f82728143599946b5a76"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH",
+    "Y8uFrUil"
+  ]
+}

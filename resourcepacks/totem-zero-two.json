@@ -1,0 +1,15 @@
+{
+  "project_id": "K41qzD5k",
+  "slug": "totem-zero-two",
+  "version_id": "27Tupw8Q",
+  "version_number": "1.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/K41qzD5k/versions/27Tupw8Q/Zero%20Two.zip",
+    "filename": "Zero Two.zip",
+    "sha512": "9be17def881fd293ff62cbf5ee0dd5c4743c1f4d28f5422b33f1f8b299ffe06b6ebe55753a6dcad86cbba7001abc5046d1e0216d43d3acf490d83669da8d3281",
+    "sha1": "038ad4db477af0706e7bfc405aa253bdec56d94f"
+  },
+  "explicit": true,
+  "dependencies": []
+}

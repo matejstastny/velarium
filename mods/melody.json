@@ -1,0 +1,17 @@
+{
+  "project_id": "CVT4pFB2",
+  "slug": "melody",
+  "version_id": "4nd52KsY",
+  "version_number": "1.0.14-1.21.10-fabric",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/4nd52KsY/melody_fabric_1.0.14_MC_1.21.10.jar",
+    "filename": "melody_fabric_1.0.14_MC_1.21.10.jar",
+    "sha512": "b252080c840b6e4dfa8335fa2d73fca09701f2e6ea73bf1dc696027d5434887e82999786a32305d7d4a30cf18e58f538db4842be3370fd8ecaa851de73227095",
+    "sha1": "46e439abfe66794c18bb9d4a9c857d0b00da29df"
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

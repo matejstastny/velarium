@@ -1,0 +1,19 @@
+{
+  "project_id": "Wq5SjeWM",
+  "slug": "fancymenu",
+  "version_id": "wQfYaY3H",
+  "version_number": "3.8.2-1.21.10-fabric",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wQfYaY3H/fancymenu_fabric_3.8.2_MC_1.21.10.jar",
+    "filename": "fancymenu_fabric_3.8.2_MC_1.21.10.jar",
+    "sha512": "c7e3d8287fbc80b52ee88b137b43bf3d602ddb79bf9437c9373e1f666ccecb7624fc0d8cb5a823036c475899a8898c91fc3f78145234a78b09d7faf592306b79",
+    "sha1": "cf2ffda9a5ac1bd0016b0d7790cba7ff269b718c"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH",
+    "J81TRJWm",
+    "CVT4pFB2"
+  ]
+}

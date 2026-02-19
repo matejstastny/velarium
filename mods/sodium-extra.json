@@ -1,0 +1,17 @@
+{
+  "project_id": "PtjYWJkn",
+  "slug": "sodium-extra",
+  "version_id": "8CGTW5B3",
+  "version_number": "mc1.21.10-0.7.1+fabric",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/8CGTW5B3/sodium-extra-fabric-0.7.1%2Bmc1.21.10.jar",
+    "filename": "sodium-extra-fabric-0.7.1+mc1.21.10.jar",
+    "sha512": "9b583ffd3e43f693366482597277fe9523c50b6f71fd1d67fe949e4929f9ad1605f5646c1c70f1bd62c0aeb7452c1956d6255c81c57ea9fc2a35af407722d025",
+    "sha1": "c5243648eda711f87febe22f0ecbe86323541b1c"
+  },
+  "explicit": true,
+  "dependencies": [
+    "AANobbMI"
+  ]
+}

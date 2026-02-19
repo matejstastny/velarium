@@ -1,0 +1,20 @@
+{
+  "project_id": "wAk5JZkv",
+  "slug": "w-armor-hud",
+  "version_id": "6zoo1yPY",
+  "version_number": "1.0.3+1.21.6",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/wAk5JZkv/versions/6zoo1yPY/armor-hud-1.0.3.jar",
+    "filename": "armor-hud-1.0.3.jar",
+    "sha512": "ed7f97b3579c3dc45cd0b5c8cfcdb5f6110ef115af26037f954684df4e23fb74dbbee2c6cb27f9c397463edb5c976fe529c9d02d1a25679270d0f462f87373a6",
+    "sha1": "24585e6722a0ea4673f1ba0cba59ca905891cdbd"
+  },
+  "explicit": true,
+  "dependencies": [
+    "1eAoo2KR",
+    "mOgUt4GM",
+    "dWIHwNEE",
+    "P7dR8mSH"
+  ]
+}

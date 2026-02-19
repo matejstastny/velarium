@@ -2,8 +2,14 @@ name: Update Modrinth README
 
 on:
   push:
+    branches:
+      - main
     paths:
       - "README.md"
+
+  workflow_run:
+    workflows: ["Update modlist"]
+    types: [completed]
 
 jobs:
   export:
@@ -17,7 +23,7 @@ jobs:
           python-version: 3.x
 
       - name: Clean README
-        run: python scripts/modrinth-readme.py
+        run: python .github/scripts/modrinth_readme.py
 
       - name: Upload cleaned README to Modrinth
         run: |

@@ -1,0 +1,15 @@
+{
+  "project_id": "ZL71UjPM",
+  "slug": "life-series-armor",
+  "version_id": "f1ub887L",
+  "version_number": "1.4.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/ZL71UjPM/versions/f1ub887L/%C2%A7aLife%C2%A7eSeries%C2%A7cArmor%20%C2%A77v1.4.0%20%C2%A78%5B1.21.3-1.21.10%5D.zip",
+    "filename": "\u00a7aLife\u00a7eSeries\u00a7cArmor \u00a77v1.4.0 \u00a78[1.21.3-1.21.10].zip",
+    "sha512": "4267c0d503cdc51d53146ca09b3f8d56dea6598f51b08da3441d1c01300c5c1d70001dd9cb44e41337f44801a4721e815de03a430055631d8d42f2de453eb06b",
+    "sha1": "d8b25e18e2901b30e2b6b7fd10970b8a13c431b7"
+  },
+  "explicit": true,
+  "dependencies": []
+}
